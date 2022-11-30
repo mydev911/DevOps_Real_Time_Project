@@ -12,6 +12,7 @@ Check sonarqube
 ip:9000
 
 #### install Nexus
+https://github.com/mydev911/installation_scripts/blob/47169e643c7e987ddccb1a922d55e10a2c43339a/Nexus%20install.md
 
 #### Install kubeadm
 https://github.com/mydev911/Kubernetes/blob/8cc6f58e5f78a9dd70b16b502bc897d051cfbac7/Install_kubernets/Kubeadm.md
