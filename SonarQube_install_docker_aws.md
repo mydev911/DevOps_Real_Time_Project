@@ -31,3 +31,12 @@ Install sonarqube plugin
 
 If jenkin get access deney to docker Fellow the link
 ##### https://github.com/mydev911/TroubleShoot/blob/e98688c852680081eb0c11a36f1deb258f655364/Jenkin%20access%20deney%20to%20docker.md
+
+#### Jenkins Pipeline
+State = quality gate staus
+####### pipeline syntax "waitforqualitygate:wait for sonarqube analysis to be "
+
+
+
+
+
